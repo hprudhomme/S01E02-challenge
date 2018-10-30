@@ -1,0 +1,67 @@
+body {
+    background-color: gray;
+}
+
+div {
+    text-align: center;
+    background-color: white;
+    width: 80%;
+    margin: auto;
+}
+
+#un, #deux {
+    background-color: dodgerblue;
+}
+
+
+
+.nav{
+    background-color: green;
+    width: 100%;
+}
+
+.nav ul {
+    justify-content: flex-end;
+    margin-right: 20px;
+}
+
+.nav ul li {
+    margin-right: 10px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+ul li {
+    margin-right: 10px;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: aqua;
+}
+
+h3 {
+    text-align: start;
+}
+
+h2:hover {
+    color: blueviolet;
+}
+
+#cita {
+    background-color: gray;
+    color: aquamarine;
+}
+
+.image {
+    margin-top: 15px;
+    border-style: solid;
+    border-radius: 20px;
+}
